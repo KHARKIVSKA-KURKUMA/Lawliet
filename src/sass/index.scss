@@ -1,12 +1,9 @@
-/* ---------------------------------- utils --------------------------------- */
 @import './utils/var';
-@import './utils/hidden';
-/* ---------------------------------- base ---------------------------------- */
 @import './base/reset';
 @import './base/common';
 @import './base/container';
-/* --------------------------------- layouts -------------------------------- */
 @import './layouts/header';
 @import './layouts/hero';
 @import './layouts/utility';
+@import './layouts/navigation';
 @import './layouts/footer';
